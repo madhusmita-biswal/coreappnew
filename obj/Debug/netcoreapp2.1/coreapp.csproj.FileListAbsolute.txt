@@ -1,0 +1,15 @@
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\coreapp.deps.json
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\coreapp.runtimeconfig.json
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\coreapp.runtimeconfig.dev.json
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\coreapp.dll
+C:\vb.net\coreapp\bin\Debug\netcoreapp2.1\coreapp.pdb
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.AssemblyInfoInputs.cache
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.AssemblyInfo.cs
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.csproj.CoreCompileInputs.cache
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.RazorAssemblyInfo.cache
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.RazorAssemblyInfo.cs
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.RazorTargetAssemblyInfo.cache
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.dll
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.pdb
+C:\vb.net\coreapp\obj\Debug\netcoreapp2.1\coreapp.genruntimeconfig.cache
